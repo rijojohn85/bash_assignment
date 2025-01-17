@@ -1,7 +1,5 @@
 #!/bin/bash
-
 file=$1
-
 if [ ! -f $file ]; then
   echo "Error: File not found"
   exit 1
