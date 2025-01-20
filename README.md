@@ -1,5 +1,6 @@
 Solutions to Bash Assignment:
-1. [File Permission Checker](https://github.com/rijojohn85/bash_assignment/blob/main/solutions/file_permission_checker.sh)
+
+1. [File Permission Checker](./solutions/Basic/file_permission_checker.sh)
 2. [Directory File Count](https://github.com/rijojohn85/bash_assignment/blob/main/solutions/directory_file_count.sh)
 3. [Duplicate Line Remover](https://github.com/rijojohn85/bash_assignment/blob/main/solutions/duplicate_line_remover.sh)
 4. [String Search in files](https://github.com/rijojohn85/bash_assignment/blob/main/solutions/search_string_logfiles.sh)
